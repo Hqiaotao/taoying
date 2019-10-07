@@ -42,7 +42,7 @@ export default {
    methods:{
           setSize:function () {
             // 通过浏览器宽度(图片宽度)计算高度
-            this.bannerHeight = 1800 / 1920 * this.screenWidth;
+            this.bannerHeight = 1900 / 1920 * this.screenWidth;
           },
         },
       mounted() {
@@ -86,6 +86,7 @@ export default {
   margin: 5px auto;
 }
 img{
+  
   width: 100%;
   height: inherit;
 }

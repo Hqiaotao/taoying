@@ -5,7 +5,7 @@
         <span class="mui-icon mui-icon-home"></span>
         <span class="mui-tab-label">首页</span>
       </router-link>
-      <router-link tag="li" class="mui-tab-item mui-active" to="/movie">
+      <router-link tag="li" class="mui-tab-item mui-active" to="/movie/hot">
         <span class="mui-icon mui-icon-extra-classroom"></span>
         <span class="mui-tab-label">电影</span>
       </router-link>

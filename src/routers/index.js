@@ -14,8 +14,8 @@ export default new Router({
     HomeRouter,
     MineRouter,
     {
-      path:'/*',
+      path: '/*',
       redirect: '/home'
-    }
+    },
   ]
 })

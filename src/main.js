@@ -4,6 +4,7 @@ import router from './routers'
 import store from './stores'
 import '../public/css/mui.min.css'
 import '../public/css/icons-extra.css'
+import '../public/css/movie.scss'
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 Vue.use(ElementUI)
